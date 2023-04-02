@@ -1,5 +1,8 @@
+
+<div > <img width="1400"  height="400" src="https://gamztube.files.wordpress.com/2019/02/1_ouvhfpwmk04-mcy091hxeg-2.gif"> </div>
 <h1 align="center">Hi 👋, I'm Abraham Mak</h1>
 <h3 align="center">A passionate fullstack developer</h3>
+
 
 <img align="right" alt="Coding" width="400" src="https://specials-images.forbesimg.com/imageserve/60cce8af64c3d63cd988ace0/Screenshot-of-Android-Studio-running-on-a-Windows-machine/960x0.gif?fit=scale">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03abraham&label=Profile%20views&color=0e75b6&style=flat" alt="03abraham" /> </p>
@@ -10,9 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abraham mak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abraham mak" height="30" width="40" /></a>
-<a href="https://hashnode.com/@makab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@makab" height="30" width="40" /></a>
-<a href="https://medium.com/@abraham mak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@abraham mak" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abraham-mak-developer-marketing-digital-aviation-job-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abraham-mak-developer-marketing-digital-aviation-job-/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
