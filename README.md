@@ -1,13 +1,13 @@
 
 <div > <img width="1400"  height="400" src="https://gamztube.files.wordpress.com/2019/02/1_ouvhfpwmk04-mcy091hxeg-2.gif"> </div>
 <h1 align="center">Hi 👋, I'm Abraham Mak</h1>
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">A passionate Fullstack developer</h3>
 
 
 <img align="right" alt="Coding" width="400" src="https://specials-images.forbesimg.com/imageserve/60cce8af64c3d63cd988ace0/Screenshot-of-Android-Studio-running-on-a-Windows-machine/960x0.gif?fit=scale">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=03abraham&label=Profile%20views&color=0e75b6&style=flat" alt="03abraham" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React Native** if you have some, let me know
 
 - 📫 How to reach me **abraham.makutu@gmail.com**
 
